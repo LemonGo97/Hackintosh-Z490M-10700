@@ -13,6 +13,7 @@
 
 ### 其他
 - 基于 OpenCore 0.8.3 进行适配
+- MacOS BigSur 测试未发现问题, 暂不支持 MacOS Ventura 及以后版本。如有需要，请自行升级 OpenCore
 
 ### 参考资料
 
